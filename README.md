@@ -1,2 +1,5 @@
 # UAS-Machine-Vision
-untuk klasifikasi karakter tulisan tangan pada dataset MNIST menggunakan HOG Feature Extraction dan Support Vector Machine 
+Nama: Rizki Surya Ramadhan
+Nim: 4212101004
+Kelas: MK5A Pagi
+
